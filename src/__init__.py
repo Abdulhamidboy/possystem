@@ -1,0 +1,1 @@
+#python packege lar uchun
